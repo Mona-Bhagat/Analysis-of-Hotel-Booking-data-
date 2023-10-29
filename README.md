@@ -1,18 +1,17 @@
 # Project Overview
 This data analysis involves creating, querying, and analyzing a database in SQL, integrating Power BI with the database, and creating visualizations
 
-
-![hotel](https://github.com/Mona-Bhagat/Analysis-of-Hotel-Booking-data-/assets/148805047/c309b422-2f59-49b8-bfaf-1f38e5c8f0d6)
-
+![hotel](https://github.com/Mona-Bhagat/Analysis-of-Hotel-Booking-data-/assets/148805047/06e065cb-f00b-4190-8247-565c9a0f20f6)
 
 
 # Data Sources
 Data: The primary dataset used for this analysis is the "hotel_revenue_historical_full-2" file.
 
 # Tools
-	* Excel 
-` * SQL
-	* PowerBI 
+
+* Excel
+* SQL
+* Power BI 
 
 # SQL 
 The Excel sheet had three years on different tabs, as the first task, they were combined using the union command. 
